@@ -6,7 +6,7 @@
   "private": true,
   "dependencies": {
     "gsap": "^1.19.1",
-    "nuxt": "latest"
+    "nuxt": "2.0.0"
   },
   "scripts": {
     "dev": "nuxt",
